@@ -1,0 +1,348 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Tests\\EntityService.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Application\\EntityService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Application\\EntityService.Application.csproj",
+        "projectName": "EntityService.Application",
+        "projectPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Application\\EntityService.Application.csproj",
+        "packagesPath": "C:\\Users\\han73r\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\han73r\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Domain\\EntityService.Domain.csproj": {
+                "projectPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Domain\\EntityService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Domain\\EntityService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Domain\\EntityService.Domain.csproj",
+        "projectName": "EntityService.Domain",
+        "projectPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Domain\\EntityService.Domain.csproj",
+        "packagesPath": "C:\\Users\\han73r\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\han73r\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Infrastructure\\EntityService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Infrastructure\\EntityService.Infrastructure.csproj",
+        "projectName": "EntityService.Infrastructure",
+        "projectPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Infrastructure\\EntityService.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\han73r\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\han73r\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Domain\\EntityService.Domain.csproj": {
+                "projectPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Domain\\EntityService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Tests\\EntityService.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Tests\\EntityService.Tests.csproj",
+        "projectName": "EntityService.Tests",
+        "projectPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Tests\\EntityService.Tests.csproj",
+        "packagesPath": "C:\\Users\\han73r\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\han73r\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Application\\EntityService.Application.csproj": {
+                "projectPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Application\\EntityService.Application.csproj"
+              },
+              "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Domain\\EntityService.Domain.csproj": {
+                "projectPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Domain\\EntityService.Domain.csproj"
+              },
+              "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Web\\EntityService.Web.csproj": {
+                "projectPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Web\\EntityService.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Web\\EntityService.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Web\\EntityService.Web.csproj",
+        "projectName": "EntityService.Web",
+        "projectPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Web\\EntityService.Web.csproj",
+        "packagesPath": "C:\\Users\\han73r\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\han73r\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Application\\EntityService.Application.csproj": {
+                "projectPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Application\\EntityService.Application.csproj"
+              },
+              "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Infrastructure\\EntityService.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\han73r\\source\\repos\\EntityServiceICL\\EntityService.Infrastructure\\EntityService.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

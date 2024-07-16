@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EntityService.Application/1.0.0": {
+        "dependencies": {
+          "EntityService.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EntityService.Application.dll": {}
+        }
+      },
+      "EntityService.Domain/1.0.0": {
+        "runtime": {
+          "EntityService.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntityService.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
