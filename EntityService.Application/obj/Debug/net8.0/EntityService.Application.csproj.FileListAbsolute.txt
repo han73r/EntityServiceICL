@@ -23,6 +23,7 @@ C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Application\obj\Debu
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Application\obj\Debug\net8.0\EntityService.Application.AssemblyInfoInputs.cache
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Application\obj\Debug\net8.0\EntityService.Application.AssemblyInfo.cs
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Application\obj\Debug\net8.0\EntityService.Application.csproj.CoreCompileInputs.cache
+C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Application\obj\Debug\net8.0\EntityService.Application.sourcelink.json
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Application\obj\Debug\net8.0\EntityService.Application.csproj.CopyComplete
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Application\obj\Debug\net8.0\EntityService.Application.dll
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Application\obj\Debug\net8.0\refint\EntityService.Application.dll

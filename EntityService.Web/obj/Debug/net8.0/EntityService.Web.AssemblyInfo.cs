@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EntityService.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df492a3c856054fcf275a539848a690bcba40838")]
 [assembly: System.Reflection.AssemblyProductAttribute("EntityService.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EntityService.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -51,6 +51,7 @@ C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\bin\Debug\net8.0\
 C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\bin\Debug\net8.0\EntityServiceAPI.runtimeconfig.json
 C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\bin\Debug\net8.0\EntityServiceAPI.dll
 C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\bin\Debug\net8.0\EntityServiceAPI.pdb
+C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\bin\Debug\net8.0\EntityServiceAPI.xml
 C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
@@ -84,9 +85,12 @@ C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\obj\Debug\net8.0\
 C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\obj\Debug\net8.0\EntityServiceAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\obj\Debug\net8.0\EntityServiceAPI.RazorAssemblyInfo.cache
 C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\obj\Debug\net8.0\EntityServiceAPI.RazorAssemblyInfo.cs
+C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\obj\Debug\net8.0\EntityServiceAPI.sourcelink.json
 C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\obj\Debug\net8.0\EntityServiceAPI.csproj.CopyComplete
 C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\obj\Debug\net8.0\EntityServiceAPI.dll
 C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\obj\Debug\net8.0\refint\EntityServiceAPI.dll
+C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\obj\Debug\net8.0\EntityServiceAPI.xml
 C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\obj\Debug\net8.0\EntityServiceAPI.pdb
 C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\obj\Debug\net8.0\EntityServiceAPI.genruntimeconfig.cache
 C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\obj\Debug\net8.0\ref\EntityServiceAPI.dll
+C:\Users\han73r\source\repos\EntityServiceICL\EntityServiceAPI\bin\Debug\net8.0\EntityService.Web.xml

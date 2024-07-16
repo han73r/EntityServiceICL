@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EntityService.Web</name>
+    </assembly>
+    <members>
+        <member name="M:EntityService.Web.Contollers.EntityController.InsertEntity(EntityService.Application.Models.EntityDto)">
+            <summary>
+            Adding a new entity to the system
+            </summary>
+            <response code="201">Returns the newly created item</response>
+            <response code="400">If the item is null</response>
+        </member>
+        <member name="M:EntityService.Web.Contollers.EntityController.GetEntityById(System.Guid)">
+            <summary>
+            Retrieve entity by Id
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -2,7 +2,8 @@
 using EntityService.Application.Interfaces;
 using EntityService.Application.Models;
 using Microsoft.Extensions.Logging;
-using System.ComponentModel;
+using System.Net;
+using Microsoft.AspNetCore.Http;
 
 namespace EntityService.Web.Contollers;
 [ApiController]
@@ -14,7 +15,14 @@ public class EntityController : ControllerBase {
         _entityService = entityService;
         _logger = logger;
     }
-    [HttpPost("insert")]
+    /// <summary>
+    /// Adding a new entity to the system
+    /// </summary>
+    /// <response code="201">Returns the newly created item</response>
+    /// <response code="400">If the item is null</response>
+    [HttpPost(Name = "insert")]
+    [ProducesResponseType(StatusCodes.Status201Created)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
     public async Task<IActionResult> InsertEntity([FromBody] EntityDto entityDto) {
         if (entityDto == null) {
             _logger.LogWarning("InsertEntity called with null entityDto");
@@ -32,6 +40,9 @@ public class EntityController : ControllerBase {
             return StatusCode(500, $"Internal server error: {ex.Message}");
         }
     }
+    /// <summary>
+    /// Retrieve entity by Id
+    /// </summary>
     [HttpGet("get/{id}")]
     public async Task<IActionResult> GetEntityById(Guid id) {
         if (id == Guid.Empty) {

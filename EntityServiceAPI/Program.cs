@@ -3,7 +3,9 @@ using EntityService.Application.Services;
 using EntityService.Domain.Interfaces;
 using EntityService.Infrastructure.Repositories;
 using EntityService.Web.Filters;
+using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,7 +14,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c => {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "EntityServiceAPI", Version = "v1" });
-    c.OperationFilter<CustomOperationFilter>();
+    //c.OperationFilter<CustomOperationFilter>();
+    var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+    c.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
 });
 
 // Register application services
@@ -30,9 +34,6 @@ if (app.Environment.IsDevelopment()) {
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();

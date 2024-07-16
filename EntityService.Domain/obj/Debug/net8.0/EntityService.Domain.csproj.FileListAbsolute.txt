@@ -16,6 +16,7 @@ C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Domain\obj\Debug\net
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Domain\obj\Debug\net8.0\EntityService.Domain.AssemblyInfoInputs.cache
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Domain\obj\Debug\net8.0\EntityService.Domain.AssemblyInfo.cs
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Domain\obj\Debug\net8.0\EntityService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Domain\obj\Debug\net8.0\EntityService.Domain.sourcelink.json
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Domain\obj\Debug\net8.0\EntityService.Domain.dll
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Domain\obj\Debug\net8.0\refint\EntityService.Domain.dll
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Domain\obj\Debug\net8.0\EntityService.Domain.pdb

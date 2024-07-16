@@ -23,6 +23,7 @@ C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Infrastructure\obj\D
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Infrastructure\obj\Debug\net8.0\EntityService.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Infrastructure\obj\Debug\net8.0\EntityService.Infrastructure.AssemblyInfo.cs
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Infrastructure\obj\Debug\net8.0\EntityService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Infrastructure\obj\Debug\net8.0\EntityService.Infrastructure.sourcelink.json
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Infrastructure\obj\Debug\net8.0\EntityService.Infrastructure.csproj.CopyComplete
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Infrastructure\obj\Debug\net8.0\EntityService.Infrastructure.dll
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Infrastructure\obj\Debug\net8.0\refint\EntityService.Infrastructure.dll

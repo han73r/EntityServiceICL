@@ -31,8 +31,11 @@ C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Web\obj\Debug\net8.0
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Web\obj\Debug\net8.0\EntityService.Web.AssemblyInfoInputs.cache
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Web\obj\Debug\net8.0\EntityService.Web.AssemblyInfo.cs
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Web\obj\Debug\net8.0\EntityService.Web.csproj.CoreCompileInputs.cache
+C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Web\obj\Debug\net8.0\EntityService.Web.sourcelink.json
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Web\obj\Debug\net8.0\EntityService.Web.csproj.CopyComplete
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Web\obj\Debug\net8.0\EntityService.Web.dll
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Web\obj\Debug\net8.0\refint\EntityService.Web.dll
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Web\obj\Debug\net8.0\EntityService.Web.pdb
 C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Web\obj\Debug\net8.0\ref\EntityService.Web.dll
+C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Web\bin\Debug\net8.0\EntityService.Web.xml
+C:\Users\han73r\source\repos\EntityServiceICL\EntityService.Web\obj\Debug\net8.0\EntityService.Web.xml
